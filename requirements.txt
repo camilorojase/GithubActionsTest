@@ -16,4 +16,4 @@
 # scipy==1.0
 #
 numpy==1.21.5
-numpydoc==1.2
+numpydoc==1.2 
